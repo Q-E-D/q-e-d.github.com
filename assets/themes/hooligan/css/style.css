@@ -403,3 +403,28 @@ div.sidebar section img.icon {
   -o-border-radius: 5px;
   border-radius: 5px;
 }
+
+ul.posts{
+  list-style: none;
+}
+
+ul.posts li{
+  margin-top: 20px;
+}
+
+.postContent p{
+  padding: 5px 0;
+}
+
+.postTitle{
+  font-size: 20px;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.postTitle:hover{
+  margin-left: 10px;
+}

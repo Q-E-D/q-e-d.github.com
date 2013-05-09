@@ -64,7 +64,8 @@ tags: [博客搭建]
 
   * 文件中如果使用了中文， 那文件格式**必须使用**`UTF-8无BOM`格式，否则就悲剧了。
 
-  * 命令行启动时， 有过有中文需要进行配置。传说在git bash环境下只要配置`LC_ALL=en_US.UTF-8` 和 `LANG=en_US.UTF-8`两个环境变量，但是楼主测试未果，原因未知。。在普通的`CMD`下需要执行`chcp 65001`使其支持UTF-8，具体操作方式可以参考[Jekyll 本地调试之若干问题](http://chxt6896.github.io/blog/2012/02/13/blog-jekyll-native.html)。
+  * 命令行启动时， 有过有中文需要进行配置。传说在git bash环境下只要配置`LC_ALL=en_US.UTF-8` 和 `LANG=en_US.UTF-8`两个环境变量，但是楼主测试未果，原因未知。。在普通的`CMD`下需要执行`chcp 65001`使其支持UTF-8，具体操作方式可以参考[Jekyll 本地调试之若干问题](http://chxt6896.github.io/blog/2012/02/13/blog-jekyll-native.html)。  
+  * 首页的摘要使用了[为Jekyll增加不完美的分页和文章摘要](http://kingauthur.info/2013/01/20/the-paginator-and-excerpt-in-jekyll/)这篇文章中介绍的方法，在此感谢博主无私的分享。
 
 ***
 最后的最后，老惯例~感谢众多大牛以及博主们做的贡献，感谢CCAV, 感谢MTV 。。。。。
