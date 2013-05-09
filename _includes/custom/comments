@@ -1,6 +1,6 @@
 <script type="text/javascript" id="wumiiRelatedItems"></script>
 <script type="text/javascript">
-    var wumiiPermaLink = "{{page.url}}"; //请用代码生成文章永久的链接
+    var wumiiPermaLink = "{{site.production_url}}{{page.url}}"; //请用代码生成文章永久的链接
     var wumiiTitle = "{{page.title}}"; //请用代码生成文章标题
     var wumiiTags = "{% for tag in page.tags %} {{tag}}, {% endfor %}"; //请用代码生成文章标签，以英文逗号分隔，如："标签1,标签2"
     var wumiiSitePrefix = "http://q-e-d.github.io/";
