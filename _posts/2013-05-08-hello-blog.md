@@ -3,7 +3,7 @@ layout: post
 title: "小记博客搭建成功"
 description: "Jekyll windows github page 个人主页 博客"
 category: others
-tags: [博客搭建]
+tags: [博客搭建, jekyll, github]
 ---
 {% include JB/setup %}
 
