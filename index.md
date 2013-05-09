@@ -11,7 +11,7 @@ tagline: 默默coding的码农
     <li>
 		<a href="{{ BASE_PATH }}{{ post.url }}" class = "postTitle" target = "_blank">{{ post.title }}</a>		
 		<div class = "postContent">
-			{{ post.content | truncate: 180 }}
+			{{ post.content | truncate: 182 }}
 		</div>
 		<div>
 			<a href = "{{post.url}}" class = "readMore" target = "_blank">阅读全文..</a>
