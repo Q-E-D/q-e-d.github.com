@@ -20,7 +20,7 @@ tags: [博客搭建, jekyll, github]
 这段代码中使用了GIT的协议，如果你使用https认证而非ssh认证，注意更改格式为https的！
 ![git仓库地址切换](/assets/images/2013-05/github-link.png)
 
-在搭建环境的过程中，尤其是python部分，为了语法高亮安装`pygments`时，各种报错被楼主无视了，原谅这个可怜的python盲。不过最后竟然没啥影响，看来楼主的RP还是很不错的^_^
+在搭建环境的过程中，尤其是python部分，为了语法高亮安装`pygments`时，各种报错，原谅这个可怜的python盲。各种依赖，各种编译环境，实在搞不定了，果断败退。打算使用[google code prettify](http://code.google.com/p/google-code-prettify/)搞定之，奈何博客主题与语法高亮的css各种冲突，不好看，果断就忍了，待后期重新调整。需要的同学可以参考下[jekyll-bootstrap添加代码高亮](http://heroin.so/javascript/2012/05/22/jekyll-bootstrap-code-highlighting/)和[jekyll中代码高亮 google-code-prettify](http://www.heiniuhaha.com/lessons/2012/08/09/use-google-code-prettify/)这两篇文章。
 
 ### 主题
 接下来是配置主题，这个没啥好说的，新手的话可以使用[现成主题](http://themes.jekyllbootstrap.com/)，步骤十分简单。当然如果你是高玩的话，可以自己写模板、写主题，如果有大能写了十分NB的主题， 欢迎分享~
