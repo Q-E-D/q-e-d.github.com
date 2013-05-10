@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "unity mouse object event bug"
+title: "unity3d绑定鼠标hover物体事件bug"
 description: "unity3d绑定鼠标hover物体事件bug"
 category: unity
 tags: [unity, c#, bug]
