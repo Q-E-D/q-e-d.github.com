@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "seajs实现前端模块化之Hello World"
-description: "seajs hello world"
+description: "seajs模块化开发"
 category: JavaScript
-tags: []
+tags: [Sea.Js, 前端模块化]
 ---
 {% include JB/setup %}
 
